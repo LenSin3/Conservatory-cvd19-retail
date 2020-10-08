@@ -1,4 +1,4 @@
-# **Effect of COVID-19 on Retail Sales**
+# **COVID-19 Effects on Consumer Behavior**
 
 ## **Collaborators**
 
@@ -11,11 +11,11 @@
 
 ## **Background**
 
-This project looks at the state of retail sales  during the COVID-19 pandemic. The project focuses on the period between January 2020 and August 2020. 
+This project looks at the trend of retail sales  during the COVID-19 pandemic in 2020. This project focuses on the time period January 2020 to August 2020. 
 
-As it is evident that the economy is battered as a result of the unfortunate pandemic, the project investigates trends in sales to highlight those areas that have been gravely affected and those that seem to thrive. In addition, lock-down  public health policy implemented by the government changed the way business is conducted. As a result of the measure, the project also looked at a general trend in e-commerce activities with particular focus on the food sector, especially grocery shopping. The assumption is that food becomes a top priority as it is most needed to survive and endure the lockdown measure.
+As it is evident that the economy is battered as a result of the unfortunate pandemic, the project investigates trends in sales to highlight those areas that have been gravely affected and those that seem to thrive. Because of this pandemic, a public lock-down enforced by the government changed the way business is conducted. As a result of the measure, this project looked at the general trend in e-commerce activities with particular focus on the food sector, especially grocery shopping. The assumption is that food becomes a top priority as it is a neccesity to survive and endure the lockdown measure.
 
-To effectively perform the necessary data analysis, the project is divided into 5 sections:
+To perform the necessary data analysis effectively, the project is divided into 5 sections:
 
 * Section 1: COVID-19 Confirmed Cases
 * Section 2:  Retail Categories Sales
@@ -25,7 +25,7 @@ To effectively perform the necessary data analysis, the project is divided into 
 
 ## **Method**
 
-Data exploration and cleaning, followed by detailed data analysis is seen in **covid-retail.ipynb**
+Data exploration and research as well as data cleaning, followed by detailed data analysis as seen in **covid-retail.ipynb**
 
 ## **Environment**
 
